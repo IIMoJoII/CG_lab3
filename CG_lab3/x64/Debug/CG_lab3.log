@@ -1,0 +1,24 @@
+﻿  main.cpp
+C:\Users\zhena\source\repos\CG_lab3\CG_lab3\header.h(66,15): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\zhena\source\repos\CG_lab3\CG_lab3\header.h(212,23): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\zhena\source\repos\CG_lab3\CG_lab3\header.h(225,29): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\zhena\source\repos\CG_lab3\CG_lab3\header.h(263,63): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\zhena\source\repos\CG_lab3\CG_lab3\header.h(301,28): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\zhena\source\repos\CG_lab3\CG_lab3\header.h(333,28): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\zhena\source\repos\CG_lab3\CG_lab3\main.cpp(13,14): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\zhena\source\repos\CG_lab3\CG_lab3\main.cpp(113,31): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\zhena\source\repos\CG_lab3\CG_lab3\main.cpp(174,31): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\zhena\source\repos\CG_lab3\CG_lab3\main.cpp(263,31): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\zhena\source\repos\CG_lab3\CG_lab3\main.cpp(351,31): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\zhena\source\repos\CG_lab3\CG_lab3\main.cpp(515,30): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\zhena\source\repos\CG_lab3\CG_lab3\main.cpp(569,53): warning C4305: инициализация: усечение из "double" в "GLfloat"
+C:\Users\zhena\source\repos\CG_lab3\CG_lab3\main.cpp(576,46): warning C4305: инициализация: усечение из "double" в "GLfloat"
+C:\Users\zhena\source\repos\CG_lab3\CG_lab3\main.cpp(588,46): warning C4305: инициализация: усечение из "double" в "GLfloat"
+C:\Users\zhena\source\repos\CG_lab3\CG_lab3\main.cpp(599,46): warning C4305: инициализация: усечение из "double" в "GLfloat"
+C:\Users\zhena\source\repos\CG_lab3\CG_lab3\main.cpp(606,50): warning C4305: аргумент: усечение из "double" в "GLfloat"
+C:\Users\zhena\source\repos\CG_lab3\CG_lab3\main.cpp(607,53): warning C4305: аргумент: усечение из "double" в "GLfloat"
+C:\Users\zhena\source\repos\CG_lab3\CG_lab3\main.cpp(614,46): warning C4305: инициализация: усечение из "double" в "GLfloat"
+C:\Users\zhena\source\repos\CG_lab3\CG_lab3\main.cpp(628,46): warning C4305: инициализация: усечение из "double" в "GLfloat"
+C:\Users\zhena\source\repos\CG_lab3\CG_lab3\main.cpp(698,15): warning C4305: -=: усечение из "double" в "float"
+C:\Users\zhena\source\repos\CG_lab3\CG_lab3\main.cpp(707,15): warning C4305: +=: усечение из "double" в "float"
+  CG_lab3.vcxproj -> C:\Users\zhena\source\repos\CG_lab3\x64\Debug\CG_lab3.exe
